@@ -1,0 +1,2 @@
+# primeiro-doc
+doc html
